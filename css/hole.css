@@ -110,7 +110,7 @@ section header {
 }
 
 #authors-btn img:not(:first-child) {
-    border: .25rem solid var(--background);
+    box-shadow: -1px 0px 2px 2px var(--background);
     margin-left: -.75rem;
 }
 
